@@ -34,7 +34,7 @@ eureka:
   instance:
     #eureka服务端的实例名称
     #hostname: localhost
-    hostname: eureka6001.com
+    hostname: eureka5001.com
   client:
     #false表示不向注册中心注册自己。
     register-with-eureka: false
